@@ -5,7 +5,6 @@ The remote controle tranmitter (human, ...) is the wifi client.
 
 * Tested with arduino 1.8.6
 * ESP32 Dev Module
-
 * control up to 6 servos or other divices
 * select and save multiple devices
 * select und save multiple channel settings
