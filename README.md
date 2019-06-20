@@ -11,9 +11,9 @@ The remote controle tranmitter (human, ...) is the wifi client.
 * select und save multiple channel settings
 
 --------------
-Website: http://www.jtronics.de/
-Instagram: https://www.instagram.com/jtronics.de/
-Youtube: https://www.youtube.com/jtronicsTV
-Twitter: https://twitter.com/jtronics2
-Facebook: https://www.facebook.com/jtronics.de/
-Thingiverse: https://www.thingiverse.com/jtronics/designs
+*Website: http://www.jtronics.de/
+*Instagram: https://www.instagram.com/jtronics.de/
+*Youtube: https://www.youtube.com/jtronicsTV
+*Twitter: https://twitter.com/jtronics2
+*Facebook: https://www.facebook.com/jtronics.de/
+*Thingiverse: https://www.thingiverse.com/jtronics/designs
